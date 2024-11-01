@@ -58,3 +58,4 @@ app/qtapp/packaging/packages/**.exe
 app/qtapp/packaging/packages/*/data
 app/qtapp/packaging/packages/com.rtklib/meta/license.txt
 app/qtapp/packaging/packages/RtkLibInstaller.exe
+/app/consapp/rnx2rtkp/msc/.vs/msc/FileContentIndex/d132499e-b890-4655-8d8b-3859baac4f33.vsidx
